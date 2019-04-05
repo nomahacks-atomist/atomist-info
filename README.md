@@ -43,3 +43,5 @@ See the [Chat Messages](https://docs.atomist.com/developer/slack/) part of the D
 If you're developing Node apps and want to deploy them to your own Kubernetes cluster as part of the hackathon, Atomist has built-in support for this, with some constraints on the conventions the Node project needs to follow.
 
 If your project fits this description and you're interested in automated deployment for your app, check out the [Uhura SDM](https://docs.atomist.com/user/uhura/) doc and/or find `@atomist-jim` or `@atomist-ryan` in the NomaHacks Slack.
+
+Happy hacking :zap: :tada:
