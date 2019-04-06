@@ -24,6 +24,8 @@ Use Atomist for Slack notifications about activity on your repos and do useful t
 
 ### 2. Write bot commands and bot event listeners
 
+> **Note:** be sure to ask us to invite you to the NomaHacks Atomist workspace. DM your email address to `@atomist-ryan`.
+
 **Commands**
 
 > We have created a starter specifically for developing with the bot. See the [nomahacks-atomist/bot-listener](https://github.com/nomahacks-atomist/bot-listener) repo for details.
